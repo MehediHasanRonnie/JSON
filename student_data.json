@@ -1,0 +1,40 @@
+{
+  "StudentsInfo": [
+    {
+      "name": "Mehedi Hasan",
+      "middleName": "Ronnie",
+      "age": 26,
+      "cgpa": 3.82,
+      "isRegistered": false,
+      "language": ["Bengali", "English", "Hindi"],
+      "friends": [
+        {
+          "Name": " Walter White",
+          "age": 62
+        },
+        {
+          "Name": "Jessie Pinkman",
+          "age": 26
+        }
+      ]
+    },
+    {
+      "name": "Scharlet Johanson",
+      "middleName": null,
+      "age": 29,
+      "cgpa": 3.5,
+      "isRegistered": false,
+      "language": ["Bengali", "English", "France", "Hindi"],
+      "friends": [
+        {
+          "Name": " Chris Even",
+          "age": 32
+        },
+        {
+          "Name": "Chris Hemsworth",
+          "age": 26
+        }
+      ]
+    }
+  ]
+}
